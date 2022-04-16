@@ -5,7 +5,7 @@
  *               in order separated by a comma followed by a space.
  * @n: The number to begin counting at.
  */
-void print_te_98(int n)
+void print_te_98
 {
 if (n >= 98)
 {
