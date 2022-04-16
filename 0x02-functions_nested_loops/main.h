@@ -12,6 +12,6 @@ int print_last_digit(int);
 void jack_beuer(void);
 void times_table(void);
 int add(int, int);
-void print_te_98(int n);
+void print_to_98(int n);
 void print_times_table(int n);
 #endif /* _MAIN_H_ */
