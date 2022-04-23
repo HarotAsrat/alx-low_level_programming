@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * strcpy - copies src to dest.
+ * _strcpy - copies src to dest.
  * @dest:char
  * @src:char
  * Return:char
